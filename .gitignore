@@ -1,2 +1,5 @@
 .idea
 venv
+demo/demo/__pycache__
+demo/demo/items/__pycache__
+*.pyc
